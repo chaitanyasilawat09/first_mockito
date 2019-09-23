@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c67c6e75-71eb-458e-8f79-961e175ee97e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R8IbG8O5aAIUjOhNWwZFCO8OX6" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.chait" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.clac1Test">
+    <configuration name="CalcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chaitmaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chait" />
+      <option name="MAIN_CLASS_NAME" value="com.chait.CalcTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcTest.Divied" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chaitmaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chait" />
+      <option name="MAIN_CLASS_NAME" value="com.chait.CalcTest" />
+      <option name="METHOD_NAME" value="Divied" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chaitmaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chait" />
+      <option name="MAIN_CLASS_NAME" value="com.chait.CalcTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcTest.testComputeCircleredius" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chaitmaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chait" />
+      <option name="MAIN_CLASS_NAME" value="com.chait.CalcTest" />
+      <option name="METHOD_NAME" value="testComputeCircleredius" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clac1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chaitmaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chait" />
+      <option name="MAIN_CLASS_NAME" value="com.chait.clac1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.clac1Test" />
+        <item itemvalue="JUnit.CalcTest.add" />
+        <item itemvalue="JUnit.CalcTest" />
+        <item itemvalue="JUnit.CalcTest.Divied" />
+        <item itemvalue="JUnit.CalcTest.testComputeCircleredius" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c67c6e75-71eb-458e-8f79-961e175ee97e" name="Default Changelist" comment="" />
+      <created>1569042365184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569042365184</updated>
+    </task>
+    <servers />
+  </component>
+</project>
